@@ -1,0 +1,59 @@
+Bil122-Ödev1 Planlama
+--------------------------
+İstenen:
+karakter hareketi(sağ/sol)
+random düşen cisim
+skor sistemi
+cisim-yer çarpışması kontrolü(çarparsa stop)
+//belki can hakkı tanımlanıp can hakkı varsa çarpışmalarda sadece (-) skor yapılabilir
+cisim-oyuncu çarpışma kontrolü(çarparsa (+) skor)
+oyun bitiş ekranı(süre de konulabilir, yere çarpma veya canla da bağlanabilir veya belli bir skora ulaşılması beklenebilir)
+input/update ve collisionlarda txt dosyasına log yazımı!!!
+
+Dosyaya Kesin Yazılacaklar!!!:
+tuş inputları - key=leftarrow gibi
+player konum değişiklikleri - playerx= 3 layery=4 gibi
+cisim hareketleri - itemspawn x=3 y=5 gibi
+collision kontroller - item-player collision skor +1  gibi (ben uydurdum ödev belgesinde sadece skor yazmış)
+skor artış - skor=2 gibi
+oyun bitiş durumu - game over / you winned gibi
+------------------------------------------------------------------------
+Karakter ve Cisim Tasarım:
+
+*___*
+|0 0|        --> Karakter
+|   |
+ / / 
+ 
+(sağa sola gidince bacak yönü değişebilir)
+ 
+***
+***        --> cisim1
+
+
+(O)
+(O)        --> cisim2
+
+
+&&&
+&&&        --> cisim3
+
+
+$$$
+$$$        --> cisim4 (belki ekstra skor eklenebilir bunda)
+
+iki satırlı olmasını manuel ayarlicam!!
+farklı cisimlerle collision oldukça diğer collisiona kadar renk değişebilir belki ???
+----------------------------------------------------------------------------
+FİKİRLER:
+
+meyve toplama
+yumurta düşebilir
+köfte yağmuru?
+dolar işareti düşse borsa gibi?? (BUNU YAP!)
+--------------------------------------------------
+TO-DO:
+itemspawn için oyun döngüsünden bağımsız zamanlayıcı(hallettim)
+logger class(hallettim)
+collision debug!! (hallettim)
+arada gelen titreşim sorunu!(timerla çakışmadan kaynaklanıyor ama halledemedim her zamanda olmuyor??) - ödev teslim sonrası bak!!

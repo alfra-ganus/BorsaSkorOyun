@@ -1,0 +1,14 @@
+/home/elif/RiderProjects/Bil122/Odev1/bin/Debug/net10.0/Odev1
+/home/elif/RiderProjects/Bil122/Odev1/bin/Debug/net10.0/Odev1.deps.json
+/home/elif/RiderProjects/Bil122/Odev1/bin/Debug/net10.0/Odev1.runtimeconfig.json
+/home/elif/RiderProjects/Bil122/Odev1/bin/Debug/net10.0/Odev1.dll
+/home/elif/RiderProjects/Bil122/Odev1/bin/Debug/net10.0/Odev1.pdb
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.AssemblyInfoInputs.cache
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.AssemblyInfo.cs
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.csproj.CoreCompileInputs.cache
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.dll
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/refint/Odev1.dll
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.pdb
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/Odev1.genruntimeconfig.cache
+/home/elif/RiderProjects/Bil122/Odev1/obj/Debug/net10.0/ref/Odev1.dll
