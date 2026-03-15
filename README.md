@@ -1,2 +1,2 @@
 # BorsaSkorOyun
-Ödev1-Skor Takip Oyunu
+Bu oyun Elif Naz Üçkardeş tarafından Nesne Tabanlı Programlamaya Giriş dersi ödevi olarak hazırlanmıştır.
