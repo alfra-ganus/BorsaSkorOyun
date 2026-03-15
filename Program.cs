@@ -1,4 +1,4 @@
-﻿using Odev1;
+using Odev1;
 
 class Program
 {
@@ -13,13 +13,15 @@ class Program
       Interface a = new Interface();
       Player p = new Player();
       List<Doviz> dovizler = new List<Doviz>();
-      Timer zaman = new Timer(obj => Dovizh(a,p, dovizler) ,null,0,800);
+      
       Console.CursorVisible = false;
       
       //hazirlik
       a.Kenarlik();
       a.Baslangic();
+      Timer zaman = new Timer(obj => Dovizh(a,p, dovizler) ,null,0,800);
       p.Img();
+      
       
       Logger.Yaz("OYUN BAŞLADI");
       //oyun dongusu
@@ -102,11 +104,4 @@ class Program
    
 }
    
-   
-
-
-
-
-
-
   
